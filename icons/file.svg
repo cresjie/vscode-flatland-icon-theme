@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="file.svg">
-</svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.33 11.11"><path d="M0,1.39A1.39,1.39,0,0,1,1.39,0H4.86V2.78a.69.69,0,0,0,.7.69H8.33V9.72a1.39,1.39,0,0,1-1.39,1.39H1.39A1.39,1.39,0,0,1,0,9.72ZM8.33,2.78H5.56V0Z" fill="#fff"/></svg>
