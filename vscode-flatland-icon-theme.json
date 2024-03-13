@@ -7,7 +7,7 @@
       "iconPath": "./icons/folder-closed@2x.png"
     },
     "_file_dark":{
-      "iconPath": "./icons/file.svg"
+      "iconPath": "./icons/file.png"
     }
   },
   "folderExpanded": "_folder_open_dark",
